@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from More-lane; or, A mad knavish an [sic] vncivil frolick of a tapster dwelling there who buying a fat coult for eighteen pnce [sic], the mare being dead, &amp; he not knowing how to bring the coult up by hand, killed it and had it baked in a pastie, and invited many of his neighbours to the feast; and telling of them what it was; the conceit thereof made them all sick: as by this following ditty you shall hear. The tapster fil'd the cup up to the brim, and all to make the little coult to swim; but all that heares it, sayes that for his gaine, he is no better than a wagg in graine. The tune is, A health to the best of men.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27370</idno><idno type="EEBO-CITATION">99827900</idno>
+  <idno type="VID">198069</idno>
+  <idno type="EEBO-PROQUEST">2240873571</idno>
+  
+            <idno type="STC">Wing N982</idno>
+            <idno type="PROQUEST">99827900</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827900e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:212-213)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from More-lane; or, A mad knavish an [sic] vncivil frolick of a tapster dwelling there who buying a fat coult for eighteen pnce [sic], the mare being dead, &amp; he not knowing how to bring the coult up by hand, killed it and had it baked in a pastie, and invited many of his neighbours to the feast; and telling of them what it was; the conceit thereof made them all sick: as by this following ditty you shall hear. The tapster fil'd the cup up to the brim, and all to make the little coult to swim; but all that heares it, sayes that for his gaine, he is no better than a wagg in graine. The tune is, A health to the best of men.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for William Gammon, and so be sould in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1665?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "There is a tapster in More-lane,".</note>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198069:1"/>
+            <head>Newes from <hi>More-lane;</hi> OR, A mad knavish an vncivil Frolick of a Tapster dwelling there, who buying a fat Coult for eigh<g ref="char:EOLhyphen"/>teen pnce, the Mare being dead, &amp; he not knowing how to bring the Coult up by hand, killed it and had it baked in a Pastie, and invited n any of his Neighbours to the Feast; and telling of them what it was; the Conceit thereof made them all Sick; as by this following Dirty you shall hear.</head>
+            <argument>
+               <lg>
+                  <l>The Tapster fil'd the Cup up to the brim,</l>
+                  <l>And all to make the little Coult to swim;</l>
+                  <l>But all that heares it, sayes that for his gaine,</l>
+                  <l>He is no better then a Wagg in graine.</l>
+               </lg>
+            </argument>
+            <opener>The Tune is, <hi>A Health to the best of Men.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of gentleman</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of gentleman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>THere is a Tapster in <hi>More-lane,</hi>
+               </l>
+               <l>that did a Pasty make,</l>
+               <l>All People doe of him complaine,</l>
+               <l>now for his grosse mistake,</l>
+               <l>Hée instead of Wenson fine</l>
+               <l>a good fat Coult did kill,</l>
+               <l>And put in store of Clarret Wine,</l>
+               <l>his humour to fullfill.</l>
+            </lg>
+            <lg>
+               <l>A peck of Flower at the least,</l>
+               <l>with six pound of Butter.</l>
+               <l>Hée made his Nighbours such a Feast,</l>
+               <l>and bid them all to Supper:</l>
+               <l>A curious fine fat Colt it was,</l>
+               <l>and handled daintily:</l>
+               <l>The Tapster prov'd himself an Asse.</l>
+               <l>for this his knavery.</l>
+            </lg>
+            <lg>
+               <l>Likewise there was a Baker too</l>
+               <l>that lived in that place,</l>
+               <l>And he was a pertaker too,</l>
+               <l>I speak in his disgrace,</l>
+               <l>For he found Flower to make it,</l>
+               <l>I speak not in his praise,</l>
+               <l>And afterwards did bake it,</l>
+               <l>his knavery for to raise.</l>
+            </lg>
+            <lg>
+               <l>Likewise there was a Car-man too,</l>
+               <l>and he found Butter for it;</l>
+               <l>But when the knavery Neighbors knew,</l>
+               <l>they could not but abhor it:</l>
+               <l>And then there was a Cooke Sir,</l>
+               <l>at <hi>More-gate</hi> doth he dwell,</l>
+               <l>And he then under tooke Sir;</l>
+               <l>to make the Pasty well.</l>
+            </lg>
+            <lg>
+               <l>Some say it eate as mellow then</l>
+               <l>as any little Chick:</l>
+               <l>But I tell thée good-fellow then,</l>
+               <l>it made the Neighbuors sick:</l>
+               <l>The Lapster had his humour,</l>
+               <l>but the Neighbours had the worst,</l>
+               <l>Yet I doe hear they bad good Béere,</l>
+               <l>and danty Pasty-crust</l>
+            </lg>
+            <lg>
+               <l>Then every joviall Blade Sir,</l>
+               <l>that lived in that place;</l>
+               <l>They Money fréely paid Sir,</l>
+               <l>they scorned to be bace.</l>
+               <l>They cal'd for Béere, likewise for Ale,</l>
+               <l>because the Coult should swim,</l>
+               <l>And of the Cup they would not faile.</l>
+               <l>but fil'd it to the brim.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:198069:1"/>
+               <head>The second part,</head>
+               <opener>to the same tune.</opener>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of three gentlemen around a table</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>THe Car-mans Wife cry'd out and said</l>
+                  <l>troa<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h 'tis good Meat indéed,</l>
+                  <l>So likewise said the chamber-Maid,</l>
+                  <l>when she on it did féed,</l>
+                  <l>The Lapster bid them welcome then,</l>
+                  <l>and Wea-hae did he cry,</l>
+                  <l>You are all welcome Gentlemen,</l>
+                  <l>you'r welcome hartily.</l>
+               </lg>
+               <lg>
+                  <l>The Glovers Wife was in a heat,</l>
+                  <l>and did both pout and mump,</l>
+                  <l>Because they would not let her eate</l>
+                  <l>the Bu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k and the Rump.</l>
+                  <l>As for the merry Weavers Wife,</l>
+                  <l>I will give her, her due</l>
+                  <l>She spent her coyne to end the strife,</l>
+                  <l>among that joviall Crew.</l>
+               </lg>
+               <lg>
+                  <l>This Colt was not so wholsome though</l>
+                  <l>as was a good fat Hogg.</l>
+                  <l>Yet one came in and told the crew</l>
+                  <l>it was a mangie Dogg?</l>
+                  <l>But he that told them was too blame,</l>
+                  <l>and was but a silly Dolt.</l>
+                  <l>The Tapster hid him peace for shame,</l>
+                  <l>for twas a good fat Colt.</l>
+               </lg>
+               <lg>
+                  <l>The Colt be cost me eightéen pence,</l>
+                  <l>the Tapster be did say,</l>
+                  <l>I hope good Folks ere you goe hence,</l>
+                  <l>you for your meate will pay.</l>
+                  <l>Pox take you for a Roague quoth one,</l>
+                  <l>another he fel'd oaks,</l>
+                  <l>Another said he was vndone?</l>
+                  <l>twas worse then Harty-choaks.</l>
+               </lg>
+               <lg>
+                  <l>The Porter he did give nine pence,</l>
+                  <l>to have it in a Pye.</l>
+                  <l>The People ere they went from thence,</l>
+                  <l>did féed most hartily.</l>
+                  <l>It was the joviall Baker,</l>
+                  <l>the knavish Tapster too,</l>
+                  <l>The Car-<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n was pertaker,</l>
+                  <l>was not this a Iovial Crew</l>
+               </lg>
+               <lg>
+                  <l>The Potecary he was there,</l>
+                  <l>
+                     <hi>Farr,</hi> and the Sexton too:</l>
+                  <l>The Tapster put them in great fear,</l>
+                  <l>He made them for to spue.</l>
+                  <l>Now was not this a Knave in grain</l>
+                  <l>to use his Neighbours so.</l>
+                  <l>When Knave are scarce, hee,l go for twan,</l>
+                  <l>good People what think you.</l>
+               </lg>
+               <lg>
+                  <l>The Tapster he came in at last,</l>
+                  <l>and gave the People vomits:</l>
+                  <l>I hope (quoth he) the worst is past,</l>
+                  <l>I have eased your soule Stomacks,</l>
+                  <l>Wea-hea, cry'd the Tapster then,</l>
+                  <l>how doe you like my sport:</l>
+                  <l>The Women said, so did the Men,</l>
+                  <l>the Devill take you for't.</l>
+               </lg>
+               <lg>
+                  <l>At <hi>Brainford</hi> as I heard some say,</l>
+                  <l>a mangie Dog was eate:</l>
+                  <l>This was not halfe so bad as that,</l>
+                  <l>and yet the fault was great;</l>
+                  <l>Men of good fashon then was there,</l>
+                  <l>that went both fine and brave.</l>
+                  <l>Now all do say, that this doth heare,</l>
+                  <l>the Tapster is a Knave.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>William Gammon,</hi> and to be sould in <hi>Smithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
